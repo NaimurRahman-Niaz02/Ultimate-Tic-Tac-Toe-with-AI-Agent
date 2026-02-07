@@ -13,7 +13,7 @@ The AI uses the Min-Max algorithm to decide its moves by looking ahead at possib
 
 ## 🌐 Live Website
 
-Play the game here:  [**Ultimate Tic-Tac-Toe**]()
+Play the game here:  [**Ultimate Tic-Tac-Toe**](https://naimurrahman-niaz02.github.io/Ultimate-Tic-Tac-Toe-with-AI-Agent/)
 
 
 ## 🛠️ Technologies Used
