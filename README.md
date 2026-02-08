@@ -11,6 +11,8 @@ This game is a modern web-based version of Ultimate Tic-Tac-Toe where a human pl
 
 The AI uses the Min-Max algorithm to decide its moves by looking ahead at possible future game situations. It assumes the AI tries to make the best move while the human tries to block it, and then chooses the move that gives the safest winning chance. To make this process faster, Alpha-Beta pruning is used to skip checking moves that cannot improve the result. This allows the AI to think deeper and play smarter without slowing down the game.
 
+<img src="https://drive.google.com/uc?export=view&id=1cNNWLd7dD2hGpdplT9r738RVMft_WtPk" width="500">
+
 ## 🌐 Live Website
 
 Play the game here:  [**Ultimate Tic-Tac-Toe**](https://naimurrahman-niaz02.github.io/Ultimate-Tic-Tac-Toe-with-AI-Agent/)
